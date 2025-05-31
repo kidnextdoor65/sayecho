@@ -1,4 +1,4 @@
-# Developed KidNextDoor
+# Developed by KidNextDoor
 
 ## t.me/kidnextdoor65
 
@@ -8,14 +8,12 @@
 ### Hướng Dẫn Sử Dụng
 1.  **Chuẩn bị dữ liệu tài khoản:**
     * Mở tệp `token.txt`.
-    * Mỗi dòng 1 token (có thể lấy bằng đoạn code dưới và dán vào console F12)
+    * Mỗi dòng 1 token F12 - Network - me - `eyj....` (có thể lấy nhanh bằng đoạn code dưới và dán vào console F12)
 2.  **Chạy Script:**
 
         npm install
     
         node main.js
-
-
 
 **For F12 console**
 
